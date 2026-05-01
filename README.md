@@ -6,7 +6,7 @@ A Python script that translates DNA sequences into amino acid chains
 ## Example Workflow
 DNA->mRNA->Protein
 ## Tools Used
-Python
-Dictionaries
-String manipulation
-File handling
+Python,
+Dictionaries,
+String manipulation,
+File handling,
